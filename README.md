@@ -2,4 +2,4 @@
 
 Use of Neural networks for the study of the impact of stellar activity on its radial velocity. Introduction of autoencoders as a mechanism of reconstruction of cross-correlation functions. 
 
-You might run the file in Jupyter Notebook.
+You might run the files in Jupyter Notebook.
